@@ -9,7 +9,7 @@ bioquímicos e de biologia molecular. Seu principal objetivo é estudar e desven
 Durante a realização do Curso de Verão de Bioinformática 2018, na Universidade de São Paulo fui apresentada à área em seus diversos aspectos. Com a popularização, desenvolvimento e refinamento dos métodos de sequenciamento do DNA houve um enorme aumento da quantidade de dados biológicos disponíveis. Inspirados pelo o impacto nas descobertas causado pela utilização de métodos de Data Science nas mais diversas areas, decidimos assim explorar sequencias de DNA de diferentes espécies. 
 
 ## 1.2. Objetivo
-O objetivo deste projeto é analisar sequencias de genes homólogos para construção de árvores filogenéticas usando a sequências da proteína TRIM5alpha de 17 espécies fazendo proveito de ferramentas de Machine Learning utilizando linguagem Python. 
+O objetivo deste projeto é analisar sequências de genes homólogos para construção de árvores filogenéticas usando sequências da proteína TRIM5alpha de 17 espécies fazendo proveito de ferramentas de Machine Learning utilizando linguagem Python. 
 
 ### 1.3. Dados
 Foram utilizados amostras de DNA TRIM5alpha genômico de 17 espécies. O TRIM5alpha é uma proteína fator de restrição de retrovírus que medeia a infecção precoce por bloqueio. 
