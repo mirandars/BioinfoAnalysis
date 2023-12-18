@@ -110,6 +110,9 @@ As funções para implementação destes métodos se encontram no módulo bioinf
  O método de redução da dimensionalidade do PCA é um método de redução de dimensionalidade linear. Ele funciona projetando um número de variáveis correlacionadas em um número (menor) de variáveis não correlacionadas, chamadas componentes principais. O primeiro componente principal é responsável pela maior parte da variabilidade dados possíveis, e cada componente sucessor é responsável por tanto a variabilidade restante quanto possível. O algoritmo resolve os autovalores e auto vetores de uma matriz simétrica quadrada com somas de quadrados e cruz produtos. O auto vetor associado ao maior autovalor tem a mesma direção do primeiro componente principal. O auto vetor associado ao segundo maior autovalor determina a direção do segundo componente principal. A soma dos autovalores é igual ao traço da matriz quadrada e o número máximo de auto vetores é igual ao número de linhas (ou colunas) desta matriz.
  
  A visualização do método PCA a cada uma das espécies se encontra no notebook 'PCA.ipynb'.
+
+![image](PCA_Saimiri-sciureus.PNG)
+ 
  
  ### 5.2. t-SNE
  O algoritmo do t-SNE compreende dois estágios principais. Primeiro, o t-SNE constrói uma distribuição de probabilidade sobre pares de objetos de alta dimensão, de tal forma que objetos similares têm uma alta probabilidade de serem escolhidos, enquanto pontos diferentes têm uma probabilidade extremamente pequena de serem escolhidos. Segundo, o t-SNE define uma distribuição de probabilidade similar sobre os pontos no mapa de baixa dimensão, e minimiza a divergência de Kullback-Leibler entre as duas distribuições em relação às localizações dos pontos no mapa.
