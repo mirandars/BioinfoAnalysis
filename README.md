@@ -70,8 +70,9 @@ Foi explorado a proporção de cada amino ácido no gene destes 17 animais, bem 
 
 
 
-### 3.1 Usando Machine Learning para decifrar o genoma
-Machine Learning (em português, Aprendizado de Máquina) explora o estudo e construção de algoritmos para coletar dados, aprender com eles, e então fazer uma determinação ou predição sobre os dados.
+### 3.1 Proporção de cada base nitrogenada identificada e não identificada no geme destes 17 animais.
+
+![image](bases.png)
 
 
 ## 4 Árvore Filogenética
